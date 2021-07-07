@@ -1,0 +1,16 @@
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\bin\Debug\net5.0\Urion1011.exe
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\bin\Debug\net5.0\Urion1011.deps.json
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\bin\Debug\net5.0\Urion1011.runtimeconfig.json
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\bin\Debug\net5.0\Urion1011.runtimeconfig.dev.json
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\bin\Debug\net5.0\Urion1011.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\bin\Debug\net5.0\ref\Urion1011.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\bin\Debug\net5.0\Urion1011.pdb
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\obj\Debug\net5.0\Urion1011.csprojAssemblyReference.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\obj\Debug\net5.0\Urion1011.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\obj\Debug\net5.0\Urion1011.AssemblyInfoInputs.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\obj\Debug\net5.0\Urion1011.AssemblyInfo.cs
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\obj\Debug\net5.0\Urion1011.csproj.CoreCompileInputs.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\obj\Debug\net5.0\Urion1011.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\obj\Debug\net5.0\ref\Urion1011.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\obj\Debug\net5.0\Urion1011.pdb
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion1011\obj\Debug\net5.0\Urion1011.genruntimeconfig.cache
