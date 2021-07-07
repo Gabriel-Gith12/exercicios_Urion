@@ -1,0 +1,16 @@
+D:\User\Área de Trabalho\c#\Urion1005\bin\Debug\net5.0\Urion1005.exe
+D:\User\Área de Trabalho\c#\Urion1005\bin\Debug\net5.0\Urion1005.deps.json
+D:\User\Área de Trabalho\c#\Urion1005\bin\Debug\net5.0\Urion1005.runtimeconfig.json
+D:\User\Área de Trabalho\c#\Urion1005\bin\Debug\net5.0\Urion1005.runtimeconfig.dev.json
+D:\User\Área de Trabalho\c#\Urion1005\bin\Debug\net5.0\Urion1005.dll
+D:\User\Área de Trabalho\c#\Urion1005\bin\Debug\net5.0\ref\Urion1005.dll
+D:\User\Área de Trabalho\c#\Urion1005\bin\Debug\net5.0\Urion1005.pdb
+D:\User\Área de Trabalho\c#\Urion1005\obj\Debug\net5.0\Urion1005.csprojAssemblyReference.cache
+D:\User\Área de Trabalho\c#\Urion1005\obj\Debug\net5.0\Urion1005.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Área de Trabalho\c#\Urion1005\obj\Debug\net5.0\Urion1005.AssemblyInfoInputs.cache
+D:\User\Área de Trabalho\c#\Urion1005\obj\Debug\net5.0\Urion1005.AssemblyInfo.cs
+D:\User\Área de Trabalho\c#\Urion1005\obj\Debug\net5.0\Urion1005.csproj.CoreCompileInputs.cache
+D:\User\Área de Trabalho\c#\Urion1005\obj\Debug\net5.0\Urion1005.dll
+D:\User\Área de Trabalho\c#\Urion1005\obj\Debug\net5.0\ref\Urion1005.dll
+D:\User\Área de Trabalho\c#\Urion1005\obj\Debug\net5.0\Urion1005.pdb
+D:\User\Área de Trabalho\c#\Urion1005\obj\Debug\net5.0\Urion1005.genruntimeconfig.cache
