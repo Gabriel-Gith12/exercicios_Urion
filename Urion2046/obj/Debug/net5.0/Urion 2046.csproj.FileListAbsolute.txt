@@ -1,0 +1,16 @@
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\bin\Debug\net5.0\Urion 2046.exe
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\bin\Debug\net5.0\Urion 2046.deps.json
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\bin\Debug\net5.0\Urion 2046.runtimeconfig.json
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\bin\Debug\net5.0\Urion 2046.runtimeconfig.dev.json
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\bin\Debug\net5.0\Urion 2046.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\bin\Debug\net5.0\ref\Urion 2046.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\bin\Debug\net5.0\Urion 2046.pdb
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\obj\Debug\net5.0\Urion 2046.csprojAssemblyReference.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\obj\Debug\net5.0\Urion 2046.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\obj\Debug\net5.0\Urion 2046.AssemblyInfoInputs.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\obj\Debug\net5.0\Urion 2046.AssemblyInfo.cs
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\obj\Debug\net5.0\Urion 2046.csproj.CoreCompileInputs.cache
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\obj\Debug\net5.0\Urion 2046.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\obj\Debug\net5.0\ref\Urion 2046.dll
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\obj\Debug\net5.0\Urion 2046.pdb
+D:\User\Documents\Tec.informática\Aula do Rafael\Urion 2046\obj\Debug\net5.0\Urion 2046.genruntimeconfig.cache
