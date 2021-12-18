@@ -1,0 +1,16 @@
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\obj\Debug\net5.0\Urion1018.csproj.AssemblyReference.cache
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\obj\Debug\net5.0\Urion1018.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\obj\Debug\net5.0\Urion1018.AssemblyInfoInputs.cache
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\obj\Debug\net5.0\Urion1018.AssemblyInfo.cs
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\obj\Debug\net5.0\Urion1018.csproj.CoreCompileInputs.cache
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\bin\Debug\net5.0\Urion1018.exe
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\bin\Debug\net5.0\Urion1018.deps.json
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\bin\Debug\net5.0\Urion1018.runtimeconfig.json
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\bin\Debug\net5.0\Urion1018.runtimeconfig.dev.json
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\bin\Debug\net5.0\Urion1018.dll
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\bin\Debug\net5.0\ref\Urion1018.dll
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\bin\Debug\net5.0\Urion1018.pdb
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\obj\Debug\net5.0\Urion1018.dll
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\obj\Debug\net5.0\ref\Urion1018.dll
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\obj\Debug\net5.0\Urion1018.pdb
+D:\User\Área de Trabalho\Nova pasta (2)\Urion1018\obj\Debug\net5.0\Urion1018.genruntimeconfig.cache
