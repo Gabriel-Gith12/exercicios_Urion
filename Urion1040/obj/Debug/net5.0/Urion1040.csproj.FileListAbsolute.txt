@@ -1,0 +1,16 @@
+D:\User\Área de Trabalho\Salve\Urion1040\obj\Debug\net5.0\Urion1040.csproj.AssemblyReference.cache
+D:\User\Área de Trabalho\Salve\Urion1040\obj\Debug\net5.0\Urion1040.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Área de Trabalho\Salve\Urion1040\obj\Debug\net5.0\Urion1040.AssemblyInfoInputs.cache
+D:\User\Área de Trabalho\Salve\Urion1040\obj\Debug\net5.0\Urion1040.AssemblyInfo.cs
+D:\User\Área de Trabalho\Salve\Urion1040\obj\Debug\net5.0\Urion1040.csproj.CoreCompileInputs.cache
+D:\User\Área de Trabalho\Salve\Urion1040\bin\Debug\net5.0\Urion1040.exe
+D:\User\Área de Trabalho\Salve\Urion1040\bin\Debug\net5.0\Urion1040.deps.json
+D:\User\Área de Trabalho\Salve\Urion1040\bin\Debug\net5.0\Urion1040.runtimeconfig.json
+D:\User\Área de Trabalho\Salve\Urion1040\bin\Debug\net5.0\Urion1040.runtimeconfig.dev.json
+D:\User\Área de Trabalho\Salve\Urion1040\bin\Debug\net5.0\Urion1040.dll
+D:\User\Área de Trabalho\Salve\Urion1040\bin\Debug\net5.0\ref\Urion1040.dll
+D:\User\Área de Trabalho\Salve\Urion1040\bin\Debug\net5.0\Urion1040.pdb
+D:\User\Área de Trabalho\Salve\Urion1040\obj\Debug\net5.0\Urion1040.dll
+D:\User\Área de Trabalho\Salve\Urion1040\obj\Debug\net5.0\ref\Urion1040.dll
+D:\User\Área de Trabalho\Salve\Urion1040\obj\Debug\net5.0\Urion1040.pdb
+D:\User\Área de Trabalho\Salve\Urion1040\obj\Debug\net5.0\Urion1040.genruntimeconfig.cache
