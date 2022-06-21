@@ -1,0 +1,3 @@
+dotnet new console = Cria o Projeto.
+dotnet build = Compila o projeto para ver se ta tudo certo ou se tem algum Erro.
+dotnet run = Executar o código fonte com um Comando.
