@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\User\\Área de Trabalho\\Trabalho\\Urion1047\\Urion1047.csproj": {}
+    "D:\\User\\Área de Trabalho\\Trabalho\\Urion1060\\Urion1060.csproj": {}
   },
   "projects": {
-    "D:\\User\\Área de Trabalho\\Trabalho\\Urion1047\\Urion1047.csproj": {
+    "D:\\User\\Área de Trabalho\\Trabalho\\Urion1060\\Urion1060.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\User\\Área de Trabalho\\Trabalho\\Urion1047\\Urion1047.csproj",
-        "projectName": "Urion1047",
-        "projectPath": "D:\\User\\Área de Trabalho\\Trabalho\\Urion1047\\Urion1047.csproj",
+        "projectUniqueName": "D:\\User\\Área de Trabalho\\Trabalho\\Urion1060\\Urion1060.csproj",
+        "projectName": "Urion1060",
+        "projectPath": "D:\\User\\Área de Trabalho\\Trabalho\\Urion1060\\Urion1060.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\User\\Área de Trabalho\\Trabalho\\Urion1047\\obj\\",
+        "outputPath": "D:\\User\\Área de Trabalho\\Trabalho\\Urion1060\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
