@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fB2q5ycugmJItuiUzx7pc9FqtIo3YW1pFrhbLVuZV3KOgwMnWYrE6TArJAruUekrHN8SNlR5dkHiWf0MtMXgSg==",
+  "success": true,
+  "projectFilePath": "D:\\User\\Área de Trabalho\\Treinamento\\Urion1061\\Urion1046.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
